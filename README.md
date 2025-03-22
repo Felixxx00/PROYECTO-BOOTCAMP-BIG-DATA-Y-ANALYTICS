@@ -7,3 +7,9 @@
 ### 3. Se obtiene un reporte de https://sinobas.aemet.es/ que es el Sistema de Notificación de Observaciones Atmosféricas Singulares
 
 ### 4. Tras obtener todos los datos tabulares, se unen por la fecha de evento u otro campo verificandose la validez y consistencia del dato. Se analiza lo construido con estadísticas descriptivas y objetos visuales (valorar la posibilidad de hacerlo en Tableau o Power BI) y se construye un modelo de clasificación que indique cuando va a ocurrir un FMA (Fenómeno Meterológico Adverso) o un OAS (Observación Atmosférica Singular). También sería interesante estudiar los datos que reporta esta estación en las fechas próximas a estos fenómenos
+
+# Estado actual del proyecto a 22/03/2025
+
+### Se consigue descargar todos los datos de la estación meteorológica de Madrid - Retiro con la API de la AEMET (OpenData) en tomos de 6 en 6 meses (son datos con una frecuencia diaria). La fecha mínima es el 01/01/1920
+
+### Se valora si intentar descargar los datos de todas las estaciones de 15 en 15 días o si unir el dataset descargado a las EFMA 2018 - 2020 y/o al sinobas, enfocando el proyecto a Madrid - Retiro.
