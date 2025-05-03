@@ -15,8 +15,8 @@ Mediante el uso del modelo **AutoARIMA**, se busca realizar predicciones a corto
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/Felixxx00/PROYECTO-BOOTCAMP-BIG-DATA-Y-ANALYTICS.git
+    cd PROYECTO-BOOTCAMP-BIG-DATA-Y-ANALYTICS
     ```
 
 2. **(Recomendado) Crear y activar un entorno virtual**:
