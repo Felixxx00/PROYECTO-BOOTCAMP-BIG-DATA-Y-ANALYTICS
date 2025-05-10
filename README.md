@@ -35,7 +35,7 @@ Mediante el uso del modelo **AutoARIMA**, se busca realizar predicciones a corto
 
 3. **Instalar las dependencias**:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requierements.txt
     ```
 
 # 📚 API Key y Ejecución de Notebooks
