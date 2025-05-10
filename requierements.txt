@@ -1,6 +1,7 @@
 ipykernel
 requests
 pandas
+openpyxl
 urllib3
 numpy==1.26.4
 scikit-learn
