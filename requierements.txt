@@ -1,14 +1,7 @@
 ipykernel
-os
 requests
-json
-datetime
 pandas
-time
 urllib3
-http
-numpy
 numpy==1.26.4
-sklearn
+scikit-learn
 matplotlib
-warnings
