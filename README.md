@@ -40,7 +40,7 @@ Mediante el uso del modelo **AutoARIMA**, se busca realizar predicciones a corto
 
 # 📚 API Key y Ejecución de Notebooks
 
-Para que el análisis se ejecute correctamente, es necesario obtener la API KEY en https://opendata.aemet.es/centrodedescargas/altaUsuario y guardarlo en:
+Para que el análisis se ejecute correctamente, es necesario obtener la API KEY en https://opendata.aemet.es/centrodedescargas/altaUsuario y guardarlo en un fichero nuevo de texto en la carpeta que se titule así:
 
     API_KEY_AEMET.txt
 
